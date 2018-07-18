@@ -79,14 +79,18 @@
 
 
 
+<meta name="description" content="最近在【抖音】上一个视频--一款关于各种向小姐姐💗表白💗的流氓软件神器。">
 <meta name="keywords" content="Wish">
-<meta property="og:type" content="website">
-<meta property="og:title" content="择心">
-<meta property="og:url" content="http://yoursite.com/index.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="python--流氓表白神器">
+<meta property="og:url" content="http://yoursite.com/2018/07/18/python-流氓表白神器/index.html">
 <meta property="og:site_name" content="择心">
+<meta property="og:description" content="最近在【抖音】上一个视频--一款关于各种向小姐姐💗表白💗的流氓软件神器。">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2018-07-18T12:41:20.804Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="择心">
+<meta name="twitter:title" content="python--流氓表白神器">
+<meta name="twitter:description" content="最近在【抖音】上一个视频--一款关于各种向小姐姐💗表白💗的流氓软件神器。">
 
 
 
@@ -116,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/"/>
+  <link rel="canonical" href="http://yoursite.com/2018/07/18/python-流氓表白神器/"/>
 
 
 
 
 
-  <title>择心</title>
+  <title>python--流氓表白神器 | 择心</title>
   
 
 
@@ -141,8 +145,7 @@
     
   
 
-  <div class="container sidebar-position-left 
-  page-home">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -215,9 +218,9 @@
         <div class="content-wrap">
           <div id="content" class="content">
             
-  <section id="posts" class="posts-expand">
+
+  <div id="posts" class="posts-expand">
     
-      
 
   
 
@@ -247,9 +250,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/07/18/python-流氓表白神器/" itemprop="url">python--流氓表白神器</a></h1>
+          <h1 class="post-title" itemprop="name headline">python--流氓表白神器</h1>
         
 
         <div class="post-meta">
@@ -299,17 +300,54 @@
       
 
       
-        
-          <pre><code>最近在【抖音】上一个视频--一款关于各种向小姐姐💗表白💗的流氓软件神器。
-</code></pre>
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2018/07/18/python-流氓表白神器/#more" rel="contents">
-              阅读全文 &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
+        <pre><code>最近在【抖音】上一个视频--一款关于各种向小姐姐💗表白💗的流氓软件神器。
+</code></pre><a id="more"></a>
+<p>#！/usr/bin/env python</p>
+<h1 id="coding-utf-8"><a href="#coding-utf-8" class="headerlink" title="-- coding:utf-8 --"></a>-<em>- coding:utf-8 -</em>-</h1><h1 id="author-SueMagic-time-2018-7-11"><a href="#author-SueMagic-time-2018-7-11" class="headerlink" title="author: SueMagic time:2018/7/11"></a>author: SueMagic time:2018/7/11</h1><p>from tkinter import *      #<em>all</em>=[a,b]<br>from  PIL import  ImageTk, Image</p>
+<p>#主界面关闭窗口<br>def closeWindow():<br>        noclose = Toplevel(window)<br>        noclose.geometry(“300x130+666+290”)<br>        noclose.title(“嘿嘿”)<br>        label = Label(noclose, text=”再考虑考虑哦”, font=(‘微软雅黑’, 35))<br>        label.pack()<br>        btn = Button(noclose, text=”行”, width=20, height=2, command=noclose.destroy)<br>        btn.pack()</p>
+<p>#点击”可以”,弹窗口<br>def Love():</p>
+<pre><code>#一个独立的顶级窗口
+love = Toplevel(window)
+love.geometry (&quot;300x180+666+290&quot;)
+love.title(&quot;好巧&quot;)
+label = Label(love,text = &quot;好巧，我也是!!!&quot;,font = (&apos;微软雅黑&apos;,30))
+#包
+label.pack()
+label1 = Label(love, text= &quot;留个联系方式呗&quot;,font=(&apos;微软雅黑&apos;, 20))
+label1.pack()
+entry = Entry (love ,font = (&apos;楷体&apos;,15))
+entry.pack()
+btn = Button(love,text = &quot;爱你&quot;,width = 10, height = 2,command = bestlove)
+btn.pack()
+love.protocol(&quot;WM_DELETE_WINDOW&quot;, closeWindow)
+</code></pre><p>#”可以”的关闭窗口<br>def closelove():<br>    closelove = Toplevel(window)<br>    closelove.geometry(“300x130+666+290”)<br>    closelove.title(“嘿嘿”)<br>    label = Label(closelove, text=”嘿嘿，想跑？”, font=(‘微软雅黑’, 35))<br>    label.pack()<br>    btn = Button(closelove, text=”怎么可能”, width=40, height=2, command=closelove.destroy)<br>    btn.pack()</p>
+<p>#点击”滚”,弹窗口<br>def nolove():<br>    no_love = Toplevel(window )<br>    no_love.geometry (“300x100+666+666”)<br>    no_love.title(“嘿嘿”)<br>    label = Label(no_love ,text = “你再好好想想!!!”,font = (‘微软雅黑’,25))</p>
+<pre><code>#包
+label.pack()
+btn = Button(no_love ,text = &quot;好吧&quot;,width = 10, height = 2,command = no_love .destroy)
+btn.pack()
+no_love.protocol(&quot;WM_DELETE_WINDOW&quot;, closenolove)
+</code></pre><p>#”滚”的关闭窗口<br>def closenolove():</p>
+<pre><code>#递归函数（回调）
+nolove()
+</code></pre><p>#关闭所有窗口<br>def closeallwindow():</p>
+<pre><code>#销毁窗口
+window.destroy()
+</code></pre><p>#创建窗口<br>window = Tk()</p>
+<p>#设置窗口标题</p>
+<p>window.title(“Love”)</p>
+<p>#设置窗口大小   小写x<br>window.geometry(“390x520”)</p>
+<p>#窗口位置<br>window.geometry(“+456+169”)</p>
+<p>#窗口无法关闭<br>window.protocol(“WM_DELETE_WINDOW”,closeWindow)</p>
+<p>#标签控件<br>label1 = Label(window,text = “hey, 小姐姐” ,font = (‘微软雅黑’, 15))</p>
+<p>#定位   grid（网格式布局）  pack  place<br>label1.grid(row = 0,column = 0,sticky=W)<br>label2 = Label(window,text = “喜欢我吗?” ,font = (‘微软雅黑’, 45))</p>
+<p>#sticky 对其方法  NSWE<br>label2.grid(row = 1,column = 1,sticky=E)</p>
+<p>#显示图片<br>photo = PhotoImage(file = ‘./love.png’)<br>imageLable = Label(window,image = photo )</p>
+<p>#columspan 组件所跨越的列数<br>imageLable.grid(row = 2,columnspan = 2 )</p>
+<p>#按钮</p>
+<p>#command 按钮点击触发的事件<br>btn1 = Button(window ,text = “可以”,width = 15,height = 2,command = Love)<br>btn1.grid(row = 3,column = 0, sticky=W)<br>btn2 = Button(window ,text = “滚”,command = nolove )<br>btn2.grid(row = 3,column = 1, sticky=E)</p>
+<p>#显示窗口    消息循环<br>window.mainloop()</p>
+
       
     </div>
     
@@ -326,140 +364,28 @@
       
 
       
-
-      
-
       
       
-        <div class="post-eof"></div>
+
       
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/07/18/hello-world/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="SueMagic">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="择心">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/2018/07/18/hello-world/" itemprop="url">Hello World</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
             
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">发表于</span>
-              
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-07-18T17:16:19+08:00">
-                2018-07-18
-              </time>
+              <a href="/2018/07/18/hello-world/" rel="next" title="Hello World">
+                <i class="fa fa-chevron-left"></i> Hello World
+              </a>
             
+          </div>
 
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
             
-
-            
-          </span>
-
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-
-          
-
+          </div>
         </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
       
 
       
-        
-          
-            <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-
-          
-        
-      
-    </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
       
     </footer>
   </div>
@@ -469,10 +395,11 @@
   </article>
 
 
-    
-  </section>
 
-  
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -480,6 +407,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -500,8 +431,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -543,6 +483,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#coding-utf-8"><span class="nav-number">1.</span> <span class="nav-text">-- coding:utf-8 --</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#author-SueMagic-time-2018-7-11"><span class="nav-number">2.</span> <span class="nav-text">author: SueMagic time:2018/7/11</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -676,6 +632,10 @@
   
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 
