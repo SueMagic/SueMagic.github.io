@@ -39,13 +39,37 @@
   </entry>
   
   <entry>
+    <title>博客-前言</title>
+    <link href="https://suemagic.github.io/%E5%8D%9A%E5%AE%A2-%E5%89%8D%E8%A8%80.html"/>
+    <id>https://suemagic.github.io/博客-前言.html</id>
+    <published>2018-03-22T02:23:45.000Z</published>
+    <updated>2018-07-23T10:26:14.015Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><br>   <strong> 人总得为自己着想。 </strong><br></blockquote><a id="more"></a><blockquote class="blockquote-center">     <strong> ☘☘☘☘☘☘☘☘☘ </strong>     </blockquote><br><br><br><br><br># 其实我很超纠结的，不知道自己到底写不写搭建博客的过程？<br>## 😇写呗，(反正也没有什么嘛素材)，把自己的想法经历表达出来，也是可以的。……….<br>## 😈写个屁，网上那么多的博客搭建介绍的，浪费力气干啥子哦！……….<br># 纠结好久后，感觉：别人的终归是别人的，自己经历了才是自己的。人生就是会踩在许许多多的人肩膀上的，但是做好自己就行。<br># 接下来我一个就会写一系列的基于Hexo主题为NexT的博客搭建和DIY美化系列的博文。<br><br><br><br><br><blockquote class="blockquote-center">     <strong> <a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo官网</a>  </strong>     </blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;br&gt;   &lt;strong&gt; 人总得为自己着想。 &lt;/strong&gt;&lt;br&gt;&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Blog" scheme="https://suemagic.github.io/categories/Blog/"/>
+    
+    
+      <category term="Hexo" scheme="https://suemagic.github.io/tags/Hexo/"/>
+    
+      <category term="NexT" scheme="https://suemagic.github.io/tags/NexT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://suemagic.github.io/hello-world.html"/>
     <id>https://suemagic.github.io/hello-world.html</id>
     <published>2018-03-21T07:49:39.000Z</published>
-    <updated>2018-07-23T08:56:26.258Z</updated>
+    <updated>2018-07-23T10:26:14.029Z</updated>
     
-    <content type="html"><![CDATA[<blockquote class="blockquote-center"><br>   <strong>😜不知道为什么，突然兴致勃勃来弄了这个博客😜。</strong><br>   <strong>既然如此，就好好的、开开心心的，来尝试新的、不一样的事物吧！</strong><br>   <strong>🆗，我，SueMagic，又名，择心。</strong><br></blockquote><p>   下面是…..<br><a id="more"></a></p><h1 id="系统内容"><a href="#系统内容" class="headerlink" title="系统内容"></a>系统内容</h1><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><p><br><br><br></p><h1 id="Hexo官网-👈👈👈"><a href="#Hexo官网-👈👈👈" class="headerlink" title="Hexo官网    👈👈👈"></a><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo官网</a>    👈👈👈</h1>]]></content>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><br>   <strong>😜不知道为什么，突然兴致勃勃来弄了这个博客😜。</strong><br>   <strong>既然如此，就好好的、开开心心的，来尝试新的、不一样的事物吧！</strong><br>   <strong>🆗，我，SueMagic，又名，择心。</strong><br></blockquote><p>   下面是…..<br><a id="more"></a><br><br></p><h1 id="系统内容"><a href="#系统内容" class="headerlink" title="系统内容"></a>系统内容</h1><p><br><br>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><p><br><br><br></p><h1 id="Hexo官网-👈👈👈"><a href="#Hexo官网-👈👈👈" class="headerlink" title="Hexo官网    👈👈👈"></a><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo官网</a>    👈👈👈</h1>]]></content>
     
     <summary type="html">
     
@@ -56,6 +80,12 @@
     
     </summary>
     
+      <category term="Blog" scheme="https://suemagic.github.io/categories/Blog/"/>
+    
+    
+      <category term="Hexo" scheme="https://suemagic.github.io/tags/Hexo/"/>
+    
+      <category term="NexT" scheme="https://suemagic.github.io/tags/NexT/"/>
     
   </entry>
   

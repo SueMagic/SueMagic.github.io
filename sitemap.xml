@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://suemagic.github.io/python-%E8%A1%A8%E7%99%BD%E7%A5%9E%E5%99%A8.html</loc>
+    <loc>https://suemagic.github.io/hello-world.html</loc>
     
-    <lastmod>2018-07-23T08:56:26.271Z</lastmod>
+    <lastmod>2018-07-23T10:26:14.029Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://suemagic.github.io/hello-world.html</loc>
+    <loc>https://suemagic.github.io/%E5%8D%9A%E5%AE%A2-%E5%89%8D%E8%A8%80.html</loc>
     
-    <lastmod>2018-07-23T08:56:26.258Z</lastmod>
+    <lastmod>2018-07-23T10:26:14.015Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://suemagic.github.io/python-%E8%A1%A8%E7%99%BD%E7%A5%9E%E5%99%A8.html</loc>
+    
+    <lastmod>2018-07-23T08:56:26.271Z</lastmod>
     
   </url>
   
