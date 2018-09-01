@@ -24,6 +24,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[导航-视频]]></title>
+    <url>%2F%E5%AF%BC%E8%88%AA-%E8%A7%86%E9%A2%91.html</url>
+    <content type="text"><![CDATA[启航 视频网址 腾讯 优酷 爱奇艺 芒果 搜狐 乐视 直播网址 斗鱼 虎牙 企鹅电竞 花椒 熊猫 龙珠 YY 视频解析 [#FFC0CB]FreeGet 喜欢 4480 吾爱看看]]></content>
+      <categories>
+        <category>导航</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Fhello-world.html</url>
     <content type="text"><![CDATA[😜不知道为什么，突然玩起了博客😜。 既然如此，就来尝试新的、不一样的事物吧！ 🆗，择心，Come On。 下面是….. 系统内容Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post$ hexo new &quot;My New Post&quot; More info: Writing Run server$ hexo server More info: Server Generate static files$ hexo generate More info: Generating Deploy to remote sites$ hexo deploy More info: Deployment Hexo官网 👈👈👈]]></content>
