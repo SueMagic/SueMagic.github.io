@@ -1,49 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[PyCharm激活]]></title>
-    <url>%2Fpycharm%E6%BF%80%E6%B4%BB.html</url>
-    <content type="text"><![CDATA[PyCharm注册码激活（可”永久”） 突然PyCharm激活码过期，连忙网上狂找。故发此文，希望对各位能有点帮助✊✊✊ 暂时修改 hosts 文件打开hosts文件(路径： C:\Windows\System32\drivers\etc )，直接在文件内容尾部添加: 0.0.0.0 account.jetbrains.com ，打开方式可尝试记事本，添加后用另存， 无后缀 ，（直接在重命名为 hosts ），剪切，回到原始路径，粘贴覆盖。 获取 注册码 去进入 http://idea.lanyus.com/ 这个网站。直接点击” 获得注册码 “，复制下来 激活 PyCharm 回到PyCharm的界面，选择第二项 Activate code ，在下方文本框中粘贴激活码，直接 activate ，会直接进入PyCharm。 success– 激活成功 – “永久”]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>让我们来激活PyCharm吧！</title>
+      <link href="/%E8%AE%A9%E6%88%91%E4%BB%AC%E6%9D%A5%E6%BF%80%E6%B4%BBpycharm%E5%90%A7%EF%BC%81.html"/>
+      <url>/%E8%AE%A9%E6%88%91%E4%BB%AC%E6%9D%A5%E6%BF%80%E6%B4%BBpycharm%E5%90%A7%EF%BC%81.html</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>  PyCharm注册码激活（可”永久”）  </strong></blockquote><br><br><br><strong> 突然PyCharm激活码过期，连忙网上狂找。故发此文，希望对各位能有点帮助✊✊✊ </strong><br><br><br><a id="more"></a><br><br><br><br><br># 暂时<br>## 修改<strong> hosts </strong>文件<br>打开hosts文件(路径：<strong> C:\Windows\System32\drivers\etc </strong>)，直接在文件内容尾部添加:<strong> 0.0.0.0 account.jetbrains.com </strong>，打开方式可尝试记事本，添加后用另存为<strong> 无后缀 </strong>的，（直接在重命名为<strong> hosts </strong>），剪切，回到原始路径，粘贴<strong> 覆盖 </strong>。<br><br><br>## <strong> 获取 </strong>注册码<br> 去进入<strong> <a href="http://idea.lanyus.com/" target="_blank" rel="noopener">http://idea.lanyus.com/</a> </strong>这个网站。直接点击” <strong> 获得注册码 </strong> “，复制下来<br><br><br>## <strong> 激活 </strong>PyCharm<br> 回到PyCharm的界面，选择第二项<strong> Activate code </strong>，在下方文本框中粘贴激活码，直接<strong> activate </strong>，会直接进入PyCharm。<br><br><blockquote class="blockquote-center"><strong>  – 激活成功 –  </strong></blockquote><p><br></p><h1 id="“永久”"><a href="#“永久”" class="headerlink" title="“永久”"></a>“永久”</h1>]]></content>
+      
       <categories>
-        <category>python</category>
-        <category>各产品激活</category>
+          
+          <category> python </category>
+          
+          <category> 激活 </category>
+          
       </categories>
-      <tags>
-        <tag>PyCharm</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[表白神器]]></title>
-    <url>%2F%E8%A1%A8%E7%99%BD%E7%A5%9E%E5%99%A8.html</url>
-    <content type="text"><![CDATA[ஐ表白神器ஐ 你距离脱单可能只差↘表白神器↙的距离 在【抖音】上发现–一款关于向小姐姐💗表白💗的神器。 这种表白姿势『当TA运行这个程序之后,不同意你的表白,就会一直存在桌面,无法被关闭,直到关机』, 你了解？ 那么接下来 ღ私人定制ღ一表白神器,希望你们也定制属于你们不一样的๑۞๑浪漫๑۞๑,让TA无法拒绝!!!Python黑科技: 调用调用tkinter和PIL from tkinter import * #_all_=[a,b] from PIL import ImageTk, Image 主界面创建窗口（窗口的标题、大小、坐标）并显示出来（还设置了窗口无法关闭）。 #创建窗口 window = Tk() #设置窗口标题 window.title(&quot;Love&quot;) #设置窗口大小 window.geometry(&quot;390x520&quot;) #窗口位置 window.geometry(&quot;+456+169&quot;) #窗口无法关闭 window.protocol(&quot;WM_DELETE_WINDOW&quot;,closeWindow) #显示窗口 消息循环 window.mainloop() 记住: 窗口大小间用小写的x来连接，（”390x520”）表示长520，宽390 窗口位置是以左上角为原点衍生，（”+456+169”）表示纵向+456，横向+169 “closeWindow”得定义（def closeWindow()） 显示文字#标签控件 label1 = Label(window,text = &quot;hey, 小姐姐&quot; ,font = (&#39;微软雅黑&#39;, 15)) #定位 grid（网格式布局） label1.grid(row = 0,column = 0,sticky=W) label2 = Label(window,text = &quot;喜欢我吗?&quot; ,font = (&#39;微软雅黑&#39;, 45)) #sticky 对齐方法 NSWE（方位） label2.grid(row = 1,column = 1,sticky=E) 显示图片#显示图片 photo = PhotoImage(file = &#39;./love.png&#39;) imageLable = Label(window,image = photo ) #columspan 组件所跨越的列数 imageLable.grid(row = 2,columnspan = 2 ) 显示按钮#按钮 #command 按钮点击触发的事件 btn1 = Button(window ,text = &quot;可以&quot;,width = 15,height = 2,command = Love) btn1.grid(row = 3,column = 0, sticky=W) btn2 = Button(window ,text = &quot;滚&quot;,command = nolove ) btn2.grid(row = 3,column = 1, sticky=E) 定义功能定义”closeWindow”#主界面关闭窗口 def closeWindow(): noclose = Toplevel(window) noclose.geometry(&quot;300x130+666+290&quot;) noclose.title(&quot;嘿嘿&quot;) label = Label(noclose, text=&quot;再考虑考虑哦&quot;, font=(&#39;微软雅黑&#39;, 35)) label.pack() btn = Button(noclose, text=&quot;行&quot;, width=20, height=2, command=noclose.destroy) btn.pack() 定义销毁所有窗口#关闭所有窗口 def closeallwindow(): #销毁窗口 window.destroy() 定义按钮”可以”#点击&quot;可以&quot;,弹窗口 def Love(): #一个独立的顶级窗口 love = Toplevel(window) love.geometry (&quot;300x180+666+290&quot;) love.title(&quot;好巧&quot;) label = Label(love,text = &quot;好巧，我也是!!!&quot;,font = (&#39;微软雅黑&#39;,30)) #包 label.pack() label1 = Label(love, text= &quot;留个联系方式呗&quot;,font=(&#39;微软雅黑&#39;, 20)) label1.pack() entry = Entry (love ,font = (&#39;楷体&#39;,15)) entry.pack() btn = Button(love,text = &quot;爱你&quot;,width = 10, height = 2,command = bestlove) btn.pack() love.protocol(&quot;WM_DELETE_WINDOW&quot;, closeWindow) 定义”可以”的关闭#&quot;可以&quot;的关闭窗口 def closelove(): closelove = Toplevel(window) closelove.geometry(&quot;300x130+666+290&quot;) closelove.title(&quot;嘿嘿&quot;) label = Label(closelove, text=&quot;嘿嘿，想跑？&quot;, font=(&#39;微软雅黑&#39;, 35)) label.pack() btn = Button(closelove, text=&quot;怎么可能&quot;, width=40, height=2, command=closelove.destroy) btn.pack() 定义按钮”滚”#点击&quot;滚&quot;,弹窗口 def nolove(): no_love = Toplevel(window ) no_love.geometry (&quot;300x100+666+666&quot;) no_love.title(&quot;嘿嘿&quot;) label = Label(no_love ,text = &quot;你再好好想想!!!&quot;,font = (&#39;微软雅黑&#39;,25)) #包 label.pack() btn = Button(no_love ,text = &quot;好吧&quot;,width = 10, height = 2,command = no_love .destroy) btn.pack() no_love.protocol(&quot;WM_DELETE_WINDOW&quot;, closenolove) 定义”滚”的关闭#&quot;滚&quot;的关闭窗口 def closenolove(): #递归函数（回调） nolove() 怎么样，get到新技能了没有！]]></content>
+      
+      
+        <tags>
+            
+            <tag> PyCharm </tag>
+            
+            <tag> 激活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>流氓式的表白</title>
+      <link href="/%E6%B5%81%E6%B0%93%E5%BC%8F%E7%9A%84%E8%A1%A8%E7%99%BD.html"/>
+      <url>/%E6%B5%81%E6%B0%93%E5%BC%8F%E7%9A%84%E8%A1%A8%E7%99%BD.html</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><strong>ஐ表白神器ஐ</strong></blockquote><br>  你距离脱单可能只差↘表白神器↙的距离<br>  在【抖音】上发现–一款关于向小姐姐💗表白💗的神器。<br>  这种表白姿势『当TA运行这个程序之后,不同意你的表白,就会一直存在桌面,无法被关闭,直到关机』, 你了解？<br>  那么接下来<br>  ღ私人定制ღ一表白神器,希望你们也定制属于你们不一样的๑۞๑浪漫๑۞๑,让TA无法拒绝!!!<br><br><a id="more"></a><br><blockquote class="blockquote-center">Python黑科技:</blockquote><h2 id="调用"><a href="#调用" class="headerlink" title="调用"></a>调用</h2><p>调用tkinter和PIL</p><pre><code class="Python">from tkinter import *      #_all_=[a,b]from  PIL import  ImageTk, Image</code></pre><h2 id="主界面"><a href="#主界面" class="headerlink" title="主界面"></a>主界面</h2><h3 id="创建窗口"><a href="#创建窗口" class="headerlink" title="创建窗口"></a>创建窗口</h3><p>（窗口的标题、大小、坐标）并显示出来（还设置了窗口无法关闭）。</p><pre><code class="Python">#创建窗口window = Tk()#设置窗口标题window.title(&quot;Love&quot;)#设置窗口大小window.geometry(&quot;390x520&quot;)#窗口位置window.geometry(&quot;+456+169&quot;)#窗口无法关闭window.protocol(&quot;WM_DELETE_WINDOW&quot;,closeWindow)#显示窗口    消息循环window.mainloop()</code></pre><p>记住:<br>    窗口大小间用小写的x来连接，（”390x520”）表示长520，宽390<br>    窗口位置是以左上角为原点衍生，（”+456+169”）表示纵向+456，横向+169<br>    “closeWindow”得定义（def closeWindow()）</p><h3 id="显示文字"><a href="#显示文字" class="headerlink" title="显示文字"></a>显示文字</h3><pre><code class="Python">#标签控件label1 = Label(window,text = &quot;hey, 小姐姐&quot; ,font = (&#39;微软雅黑&#39;, 15))#定位    grid（网格式布局）label1.grid(row = 0,column = 0,sticky=W)label2 = Label(window,text = &quot;喜欢我吗?&quot; ,font = (&#39;微软雅黑&#39;, 45))#sticky 对齐方法   NSWE（方位）label2.grid(row = 1,column = 1,sticky=E)</code></pre><h3 id="显示图片"><a href="#显示图片" class="headerlink" title="显示图片"></a>显示图片</h3><pre><code class="Python">#显示图片photo = PhotoImage(file = &#39;./love.png&#39;)imageLable = Label(window,image = photo )#columspan 组件所跨越的列数imageLable.grid(row = 2,columnspan = 2 )</code></pre><h3 id="显示按钮"><a href="#显示按钮" class="headerlink" title="显示按钮"></a>显示按钮</h3><pre><code class="Python">#按钮#command 按钮点击触发的事件btn1 = Button(window ,text = &quot;可以&quot;,width = 15,height = 2,command = Love)btn1.grid(row = 3,column = 0, sticky=W)btn2 = Button(window ,text = &quot;滚&quot;,command = nolove )btn2.grid(row = 3,column = 1, sticky=E)</code></pre><h2 id="定义功能"><a href="#定义功能" class="headerlink" title="定义功能"></a>定义功能</h2><h3 id="定义”closeWindow”"><a href="#定义”closeWindow”" class="headerlink" title="定义”closeWindow”"></a>定义”closeWindow”</h3><pre><code class="Python">#主界面关闭窗口def closeWindow():        noclose = Toplevel(window)        noclose.geometry(&quot;300x130+666+290&quot;)        noclose.title(&quot;嘿嘿&quot;)        label = Label(noclose, text=&quot;再考虑考虑哦&quot;, font=(&#39;微软雅黑&#39;, 35))        label.pack()        btn = Button(noclose, text=&quot;行&quot;, width=20, height=2, command=noclose.destroy)        btn.pack()</code></pre><h3 id="定义销毁所有窗口"><a href="#定义销毁所有窗口" class="headerlink" title="定义销毁所有窗口"></a>定义销毁所有窗口</h3><pre><code class="Python">#关闭所有窗口def closeallwindow():    #销毁窗口    window.destroy()</code></pre><h3 id="定义按钮”可以”"><a href="#定义按钮”可以”" class="headerlink" title="定义按钮”可以”"></a>定义按钮”可以”</h3><pre><code class="Python">#点击&quot;可以&quot;,弹窗口def Love():    #一个独立的顶级窗口    love = Toplevel(window)    love.geometry (&quot;300x180+666+290&quot;)    love.title(&quot;好巧&quot;)    label = Label(love,text = &quot;好巧，我也是!!!&quot;,font = (&#39;微软雅黑&#39;,30))    #包    label.pack()    label1 = Label(love, text= &quot;留个联系方式呗&quot;,font=(&#39;微软雅黑&#39;, 20))    label1.pack()    entry = Entry (love ,font = (&#39;楷体&#39;,15))    entry.pack()    btn = Button(love,text = &quot;爱你&quot;,width = 10, height = 2,command = bestlove)    btn.pack()    love.protocol(&quot;WM_DELETE_WINDOW&quot;, closeWindow)</code></pre><h3 id="定义”可以”的关闭"><a href="#定义”可以”的关闭" class="headerlink" title="定义”可以”的关闭"></a>定义”可以”的关闭</h3><pre><code class="Python">#&quot;可以&quot;的关闭窗口def closelove():    closelove = Toplevel(window)    closelove.geometry(&quot;300x130+666+290&quot;)    closelove.title(&quot;嘿嘿&quot;)    label = Label(closelove, text=&quot;嘿嘿，想跑？&quot;, font=(&#39;微软雅黑&#39;, 35))    label.pack()    btn = Button(closelove, text=&quot;怎么可能&quot;, width=40, height=2, command=closelove.destroy)    btn.pack()</code></pre><h3 id="定义按钮”滚”"><a href="#定义按钮”滚”" class="headerlink" title="定义按钮”滚”"></a>定义按钮”滚”</h3><pre><code class="Python">#点击&quot;滚&quot;,弹窗口def nolove():    no_love = Toplevel(window )    no_love.geometry (&quot;300x100+666+666&quot;)    no_love.title(&quot;嘿嘿&quot;)    label = Label(no_love ,text = &quot;你再好好想想!!!&quot;,font = (&#39;微软雅黑&#39;,25))    #包    label.pack()    btn = Button(no_love ,text = &quot;好吧&quot;,width = 10, height = 2,command = no_love .destroy)    btn.pack()    no_love.protocol(&quot;WM_DELETE_WINDOW&quot;, closenolove)</code></pre><h3 id="定义”滚”的关闭"><a href="#定义”滚”的关闭" class="headerlink" title="定义”滚”的关闭"></a>定义”滚”的关闭</h3><pre><code class="Python">#&quot;滚&quot;的关闭窗口def closenolove():    #递归函数（回调）    nolove()</code></pre><blockquote class="blockquote-center"><strong>怎么样，get到新技能了没有！</strong></blockquote>]]></content>
+      
       <categories>
-        <category>python</category>
+          
+          <category> python </category>
+          
       </categories>
-      <tags>
-        <tag>小玩意</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[导航-视频]]></title>
-    <url>%2F%E5%AF%BC%E8%88%AA-%E8%A7%86%E9%A2%91.html</url>
-    <content type="text"><![CDATA[启航 视频网址 腾讯 优酷 爱奇艺 芒果 搜狐 乐视 直播网址 斗鱼 虎牙 企鹅电竞 花椒 熊猫 龙珠 YY 视频解析 FreeGet 喜欢 4480 吾爱看看]]></content>
+      
+      
+        <tags>
+            
+            <tag> 小玩意 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>全网视频、直播等网址</title>
+      <link href="/%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E3%80%81%E7%9B%B4%E6%92%AD%E7%AD%89%E7%BD%91%E5%9D%80.html"/>
+      <url>/%E5%85%A8%E7%BD%91%E8%A7%86%E9%A2%91%E3%80%81%E7%9B%B4%E6%92%AD%E7%AD%89%E7%BD%91%E5%9D%80.html</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><br>   <strong> 启航 </strong><br></blockquote><a id="more"></a><p><br><br><br></p><blockquote class="blockquote-center"><br>       视频网址<br></blockquote><p> <strong> <a href="https://v.qq.com/" target="_blank" rel="noopener">腾讯</a>  </strong></p><p> <strong> <a href="https://www.youku.com/" target="_blank" rel="noopener">优酷</a>  </strong></p><p> <strong> <a href="http://www.iqiyi.com/" target="_blank" rel="noopener">爱奇艺</a>  </strong></p><p> <strong> <a href="https://www.mgtv.com/" target="_blank" rel="noopener">芒果</a>  </strong></p><p> <strong> <a href="https://tv.sohu.com/" target="_blank" rel="noopener">搜狐</a>  </strong></p><p> <strong> <a href="http://www.le.com/" target="_blank" rel="noopener">乐视</a>  </strong></p><blockquote class="blockquote-center"><br>        直播网址<br></blockquote><p> <strong> <a href="https://www.douyu.com/" target="_blank" rel="noopener">斗鱼</a>  </strong></p><p> <strong> <a href="https://www.huya.com/" target="_blank" rel="noopener">虎牙</a>  </strong></p><p> <strong> <a href="">企鹅电竞</a>  </strong></p><p> <strong> <a href="http://www.huajiao.com/" target="_blank" rel="noopener">花椒</a>  </strong></p><p> <strong> <a href="https://www.panda.tv/" target="_blank" rel="noopener">熊猫</a>  </strong></p><p> <strong> <a href="http://www.longzhu.com/" target="_blank" rel="noopener">龙珠</a>  </strong></p><p> <strong> <a href="http://www.yy.com/" target="_blank" rel="noopener">YY</a>  </strong></p><blockquote class="blockquote-center"><br>        视频解析<br></blockquote><p> <strong> <a href="http://www.freeget.org/" target="_blank" rel="noopener">FreeGet</a>  </strong></p><blockquote class="blockquote-center"><br>       喜欢<br></blockquote><p> <strong> <a href="http://aaqqy.com/" target="_blank" rel="noopener">4480</a>  </strong></p><p> <strong> <a href="http://www.wuaikk.com/" target="_blank" rel="noopener">吾爱看看</a>  </strong></p><p> <strong> <a href=""></a>  </strong></p><p> <strong> <a href=""></a>  </strong></p><p> <strong> <a href=""></a>  </strong></p>]]></content>
+      
       <categories>
-        <category>导航</category>
+          
+          <category> 导航 </category>
+          
       </categories>
-      <tags>
-        <tag>导航</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2Fhello-world.html</url>
-    <content type="text"><![CDATA[😜不知道为什么，突然玩起了博客😜。 既然如此，就来尝试新的、不一样的事物吧！ 🆗，择心，Come On。 下面是….. 系统内容Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post$ hexo new &quot;My New Post&quot; More info: Writing Run server$ hexo server More info: Server Generate static files$ hexo generate More info: Generating Deploy to remote sites$ hexo deploy More info: Deployment Hexo官网 👈👈👈]]></content>
-      <categories>
-        <category>Blog</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>NexT</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 网址 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/hello-world.html"/>
+      <url>/hello-world.html</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><p><br><br><br></p><h1 id="Hexo官网-👈👈👈"><a href="#Hexo官网-👈👈👈" class="headerlink" title="Hexo官网    👈👈👈"></a><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo官网</a>    👈👈👈</h1>]]></content>
+      
+      
+    </entry>
+    
+  
+  
 </search>
